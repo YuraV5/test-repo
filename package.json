@@ -11,6 +11,11 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@aws-sdk/client-ses": "^3.1129.0",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "handlebars": "^4.7.9",
+    "tsx": "^4.23.13"
   }
 }
